@@ -1,4 +1,4 @@
-package com.ryde.UserManagement.model;
+package com.UserManagement.model;
 
 import java.util.Date;
 
